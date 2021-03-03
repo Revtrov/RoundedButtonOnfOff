@@ -1,0 +1,12 @@
+#roundedButton {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    height: 40px;
+    font-size: 10px;
+    outline: none;
+    background-color: #463757;
+    border-style: solid;
+    border-color: #463757;
+    color: white;
+}
